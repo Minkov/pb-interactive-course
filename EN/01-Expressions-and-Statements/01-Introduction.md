@@ -1,5 +1,5 @@
 [slide]
-# Introduction
+# Welcome to SoftUni
 [image src="http://link-to-image" /]
 [/slide]
 
@@ -18,6 +18,7 @@ public class App
 {
     public static void Main()
     {
+        string name = Console.ReadLine();
         // Write your code here
     }
 }
@@ -41,4 +42,8 @@ public class App
     }
 }
 ```
+[/slide]
+
+[slide]
+
 [/slide]
