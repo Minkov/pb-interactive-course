@@ -9,6 +9,11 @@
 [/slide]
 
 [slide]
+# Console
+
+[/slide]
+
+[slide]
 # Task
 [code-task title="Hello" executionStrategy="csharp-dot-net-core-code" requiresInput]
 [code-editor language=csharp] 
