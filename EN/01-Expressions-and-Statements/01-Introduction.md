@@ -31,16 +31,16 @@ This is a simple program, written in C#, that prints "Hello World!" as an output
 [slide]
 # Explanation
 Let's go through the program line by line.
-* *class Program{...}*
+- ***class Program{...}***
 The above statement creates a class named - Program. C# is an object-oriented programming language, creating a class is mandatory for the program's execution.
  
-* *static void Main(){...}*
+- ***static void Main(){...}***
 
 Main() is a method of class Program. The execution of every C# program starts from the Main() method.
 
 We'll learn more about methods in the later lectures.
  
-* *System.Console.WriteLine("Hello World!");*
+- ***System.Console.WriteLine("Hello World!");***
 
 For now, remember this is the piece of code that prints "Hello World!" to the output screen. 
 
@@ -53,7 +53,7 @@ You'll learn more about how it works in the later lectures.
 [code-editor language=csharp] 
 ```
 using System;
-public class App
+public class Program
 {
     public static void Main()
     {
@@ -80,9 +80,9 @@ Hint: You can use "+" sign to join to strings.
 using System;
 public class Program
 {
-  public static void Main()
+    public static void Main()
     {
-       string name = Console.ReadLine();
+        string name = Console.ReadLine();
         Console.WriteLine("Hello " + name + "!");
     }
 }
