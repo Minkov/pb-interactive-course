@@ -78,3 +78,7 @@ public class App
 }
 ```
 [/slide]
+
+[slide]
+# Explanation
+[/slide]
