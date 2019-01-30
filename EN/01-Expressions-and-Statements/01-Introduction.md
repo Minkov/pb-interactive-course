@@ -1,6 +1,7 @@
 [slide]
 # Welcome to SoftUni
-[image src="http://link-to-image" /]
+[image src="https://interactive-platform.serveo.net/platform/assets/icons/logo.svg" /]
+[youtube-video videoId=WD33ii01kXI /]
 [/slide]
 
 [slide]
@@ -10,7 +11,7 @@
 
 [slide]
 # Hello World!
-[code-task title="" executionStrategy="csharp-dot-net-core-code"]
+[code-task title="Hello World" executionStrategy="csharp-dot-net-core-code"]
 [code-editor language=csharp]
 ```
 public class Program {         
@@ -32,6 +33,7 @@ This is a simple program, written in C#, that prints "Hello World!" as an output
 # Explanation
 Let's go through the program line by line.
 - ***class Program{...}***
+
 The above statement creates a class named - Program. C# is an object-oriented programming language, creating a class is mandatory for the program's execution.
  
 - ***static void Main(){...}***
@@ -49,7 +51,7 @@ You'll learn more about how it works in the later lectures.
 
 [slide]
 # Task
-[code-task title="Hello" executionStrategy="csharp-dot-net-core-code" requiresInput]
+[code-task title="Greeting" executionStrategy="csharp-dot-net-core-code" requiresInput]
 [code-editor language=csharp] 
 ```
 using System;
@@ -100,24 +102,20 @@ Hint: You can use "+" sign to join to strings.
 [slide]
 # Explanation - Namespaces
 You see that above the class there is ***using System;***
-
 System is a Namespace. Namespaces are used in C# to organize and provide a level of separation of codes. They can be considered as a container which consists of other namespaces, classes, etc.
-
 So after we are using the System Namespace, we can just type ***Console.WriteLine()***. That is because Console is a member of the System Namespace.
-
 You will learn more about Namespaces in the following lectures.
 [/slide]
 
 [slide]
 # Explanation - Concatenation
 
-When we read the input from the console and store it in the variable name, we print a line on the console as a result.
-
+When we read the input from the console and store it in the variable ***name***, we print a line on the console as a result.
 We are using a method of the class Console, just like ***ReadLine()***, but now printing, rather than reading - ***PrintLine()***.
 
-The line consist of the text "Hello " which is concatenated with the value of the variable name and "!". 
+The line consist of the text "Hello " which is concatenated with the value of the variable ***name*** and "!". 
 
-When we are using + sign between 2 part of text, called strings, we are concatenating them, not adding them together.
+When we are using "+" sign between 2 parts of text, called strings, we are concatenating them, not adding them together.
 
 We are going to learn about strings and different data types in the following sections.
 [/slide]
