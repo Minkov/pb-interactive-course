@@ -102,8 +102,13 @@ Hint: You can use "+" sign to join to strings.
 [slide]
 # Explanation - Namespaces
 You see that above the class there is ***using System;***
-System is a Namespace. Namespaces are used in C# to organize and provide a level of separation of codes. They can be considered as a container which consists of other namespaces, classes, etc.
+
+System is a Namespace. Namespaces are used in C# to organize and provide a level of separation of codes. 
+
+They can be considered as a container which consists of other namespaces, classes, etc.
+
 So after we are using the System Namespace, we can just type ***Console.WriteLine()***. That is because Console is a member of the System Namespace.
+
 You will learn more about Namespaces in the following lectures.
 [/slide]
 
