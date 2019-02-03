@@ -1,3 +1,5 @@
+# Variables
+
 [slide]
 # Definition
 [image src="http://link-to-image" /]

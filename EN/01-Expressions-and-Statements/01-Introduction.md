@@ -1,3 +1,5 @@
+# Introduction
+
 [slide]
 # Welcome to SoftUni
 [image src="https://interactive-platform.serveo.net/platform/assets/icons/logo.svg" /]
