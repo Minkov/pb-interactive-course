@@ -4,7 +4,7 @@
 # Introduction
 [image src="http://link-to-image" /]
 [/slide]
-# Data Types
+
 [slide]
 # Video
 [youtube-video videoId=DomGl8qRfVA /]
