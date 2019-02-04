@@ -29,10 +29,9 @@ Variables in C# must be declared before they can be used. This means, the name a
 [slide]
 # Best Practices
 
-1. Choose a variable name that make sense. For example, name, age, subject makes more sense than n, a and s.
-2. Use camelCase notation (starts with lowercase letter) for naming local variables. For example, numberOfStudents, age, etc.
-3. Use PascalCase or CamelCase (starts with uppercase letter) for naming public member variables. For example, FirstName, Price, etc.
-4. Use a leading underscore (_) followed by camelCase notation for naming private member variables. For example, _bankBalance, _emailAddress, etc.
+* Choose a variable name that make sense. For example, name, age, subject makes more sense than n, a and s.
+* Use camelCase notation (starts with lowercase letter) for naming local variables. For example, numberOfStudents, age, etc.
+
 You can learn more about naming conventions in C# [here](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines).
 
 [/slide]
