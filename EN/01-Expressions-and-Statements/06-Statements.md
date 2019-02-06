@@ -61,7 +61,7 @@ Write a program that recieves a radius (r) and calculates the circle area.
 
 |Input|Output|
 | --- | --- |
-|5|78.54<br>31.42|
+|5|78.54<br>31.42|  
 |12|452.39<br>75.40|
 
 [/task-description]
