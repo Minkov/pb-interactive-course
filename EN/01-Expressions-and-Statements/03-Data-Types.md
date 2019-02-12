@@ -12,6 +12,14 @@
 
 [slide]
 # Primitive Data Types
+
+
+```cs
+int number = 5;
+string text = "Some text";
+char letter = 'A';
+double decimalNumber = 4.2;
+```
 [/slide]
 
 [slide]
