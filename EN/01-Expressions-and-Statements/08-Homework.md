@@ -3,13 +3,11 @@
 [slide]
 # Exercise
 
-
-this is a.sd,ad;a
 [/slide]
 
 
 [slide]
-# Problem 01. Hell
+# Problem 01. Hello
 
 [code-task title="Hello" executionStrategy="csharp-dot-net-core-code" requiresInput]
 [code-editor language=csharp]
