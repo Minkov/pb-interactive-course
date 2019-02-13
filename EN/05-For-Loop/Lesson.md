@@ -90,6 +90,7 @@ Sum: 21
 Here, the value of sum and n are initialized to 0 and 6 respectively. The iteration variable i is initialized to 1 and incremented on each iteration.
 
 Let's see what happens in the given program on each iteration:
+
 | Iteration | Value of i | i <= 6 | sum |
 |---|---|---|---|
 | 1 | 1 | true | 0 + 1 = 1 |
@@ -99,6 +100,7 @@ Let's see what happens in the given program on each iteration:
 | 5 | 5 | true | 10 + 5 = 15 |
 | 6 | 6 | true | 15 + 6 = 21 |
 | 7 | 7 |  false | Loop terminates |
+
 So, the final value of sum will be 21 when n = 6.
 
 #### Incrementation and Decrementation
