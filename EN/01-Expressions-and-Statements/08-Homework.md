@@ -1,18 +1,17 @@
-# Summary
+# Exercise
 
 [slide]
-# Video
-[youtube-video videoId=rtczBseiAac /]
+# Exercise
+
+
+this is a.sd,ad;a
 [/slide]
 
-[slide]
-# Summary
-[/slide]
 
 [slide]
-# Title
+# Problem 01. Hell
 
-[code-task title="" executionStrategy="csharp-dot-net-core-code" requiresInput]
+[code-task title="Hello" executionStrategy="csharp-dot-net-core-code" requiresInput]
 [code-editor language=csharp]
 ```
 using System;
@@ -26,9 +25,8 @@ public class Program
 ```
 [/code-editor]
 [task-description]
+Some descr
 [/task-description]
 [code-io /]
 [/code-task]
-
 [/slide]
-
