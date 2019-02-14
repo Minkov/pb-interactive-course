@@ -4,6 +4,7 @@ In the following section we will cover the conditional statement ***switch***. I
 
 Let’s take a look at an example of ***switch***:
 [/slide]
+
 [slide]
 # Example
 [code-task title="Example" executionStrategy="csharp-dot-net-core-code"]
@@ -36,6 +37,7 @@ class Program
 [/code-task]
 
 The selector must be a value of the following types:
+[/slide]
 [slide]
 # Char
 [/slide]
@@ -47,7 +49,6 @@ The selector must be a value of the following types:
 [/slide]
 [slide]
 # Integer
-[/slide]
 [/slide]
 
 [slide]
@@ -98,4 +99,4 @@ Write a program, which reads an integer from the console and prints the day of w
 [/task-description]
 [code-io /]
 [/code-task]
-[slide]
+[/slide]
