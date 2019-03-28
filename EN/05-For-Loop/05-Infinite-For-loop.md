@@ -1,5 +1,4 @@
 # Infinite For Loop
-
 [slide]
 # Definition
 An infinite loop is a piece of coding that lacks an exit condition so the loop repeats indefinitely. Infinite loop is **rarely needed** and should be **avoided**.
