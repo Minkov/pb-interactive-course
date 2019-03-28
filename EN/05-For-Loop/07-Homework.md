@@ -1,5 +1,3 @@
-# Homework
-
 [slide]
 # Problem: Numbers from 1 to N
 [code-task title="Numbers-in-Range" executionStrategy="csharp-dot-net-core-code"]

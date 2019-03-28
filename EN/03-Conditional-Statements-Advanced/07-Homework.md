@@ -1,8 +1,5 @@
-# Exercise
-
 [slide]
 # Exercise
-
 [/slide]
 
 
@@ -28,6 +25,7 @@ Write a program that shows the sign (+ or -) of the product of three real number
 [code-io /]
 [/code-task]
 [/slide]
+
 [slide]
 # Problem 02. Biggest of 3
 
@@ -50,6 +48,7 @@ Write a program that finds the biggest of three integers, using nested if statem
 [code-io /]
 [/code-task]
 [/slide]
+
 [slide]
 # Problem 03. Digit as word
 

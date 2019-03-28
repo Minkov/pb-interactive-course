@@ -13,7 +13,6 @@
 [slide]
 # Primitive Data Types
 
-
 ```cs
 int number = 5;
 string text = "Some text";
